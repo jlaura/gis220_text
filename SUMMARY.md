@@ -5,4 +5,5 @@
 * [Orientation](chapter1.md)
    * Overview
    * Checklist
+* Functions, Notation, and Variables
 
