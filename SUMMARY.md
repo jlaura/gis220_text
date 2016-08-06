@@ -17,4 +17,5 @@
 * Distributions and Sampling
    * Overview
    * Checklist
+* Computational Geometry I
 
