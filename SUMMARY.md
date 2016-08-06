@@ -15,4 +15,5 @@
    * Overview
    * Checklist
 * Distributions and Sampling
+   * Overview
 
