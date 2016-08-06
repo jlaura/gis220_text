@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Syllabus](syllabus.md)
 * [Orientation](chapter1.md)
-   * Three Habits
+   * [Three Habits](three_habits.md)
    * Checklist
    * Three Habits
 * Functions, Notation, and Variables
