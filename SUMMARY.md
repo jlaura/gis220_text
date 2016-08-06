@@ -20,4 +20,5 @@
 * Computational Geometry I
    * Overview
    * Checklist
+* Computational Geometry II
 
