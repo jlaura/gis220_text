@@ -5,7 +5,7 @@
 * [Orientation](chapter1.md)
    * [Three Habits](three_habits.md)
    * [Checklist](checklist.md)
-   * Three Habits
+   * Overview
 * Functions, Notation, and Variables
    * Overview
    * Checklist
