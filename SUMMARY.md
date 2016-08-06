@@ -19,4 +19,5 @@
    * Checklist
 * Computational Geometry I
    * Overview
+   * Checklist
 
