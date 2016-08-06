@@ -11,4 +11,5 @@
 * Definite Integrals (Summation)
    * Overview
    * Checklist
+* Probability
 
