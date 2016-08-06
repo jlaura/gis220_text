@@ -6,4 +6,5 @@
    * Overview
    * Checklist
 * Functions, Notation, and Variables
+   * Overview
 
