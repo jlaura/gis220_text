@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [Syllabus](syllabus.md)
 * [Orientation](chapter1.md)
+   * Three Habits
    * [Overview](overview.md)
        * Three Habits
    * Checklist
