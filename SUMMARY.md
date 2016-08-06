@@ -4,4 +4,5 @@
    * [Syllabus](syllabus.md)
 * [First Chapter](chapter1.md)
    * Overview
+   * Checklist
 
