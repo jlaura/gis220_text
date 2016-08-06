@@ -13,4 +13,5 @@
    * Checklist
 * Probability
    * Overview
+   * Checklist
 
