@@ -7,6 +7,7 @@
    * [Checklist](checklist.md)
    * Learning Environment
    * [Three Habits](three_habits.md)
+   * Course Text
 * Functions, Notation, and Variables
    * Overview
    * Checklist
