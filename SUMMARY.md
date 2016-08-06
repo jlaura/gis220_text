@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-   * Syllabus
+   * [Syllabus](syllabus.md)
 * [First Chapter](chapter1.md)
 
