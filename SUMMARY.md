@@ -8,4 +8,5 @@
 * Functions, Notation, and Variables
    * Overview
    * Checklist
+* Definite Integrals (Summation)
 
