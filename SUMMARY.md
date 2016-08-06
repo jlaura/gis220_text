@@ -9,8 +9,8 @@
    * Course Text
    * Roles and Responsibilities
    * Assignments
-   * [Three Habits](three_habits.md)
    * Communication
+   * [Three Habits](three_habits.md)
 * Functions, Notation, and Variables
    * Overview
    * Checklist
