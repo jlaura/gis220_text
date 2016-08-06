@@ -54,22 +54,22 @@ There are **no extra credit assignments** to make up for poor performance on exa
 
 |Week | Date | Topics  | Assignment| 
 |---|--------|----------|---------|
-| 1 | (8/18 - 8/23) | Course Introduction | | |
-| 2 | (8/23 - 8/30) | Functions, Notation, and Variables | E1 Algebra Review | |
-| 3 | (8/30 - 9/6)  | Summation | E2 Descriptive Statistics | E1 Algebra Review| 
-| 4 | (9/6 - 9/13)  | Probability | E3 Probability | E2 2 Descriptive Statistics|
-| 5 | (9/13 - 9/20) | Distirbutions and Sampling | E4 Point Patterns I | E3 Probability |
-| 6 | (9/20 - 9/27) | Computational Geometry I | E5 Point Patterns II  | E4 Point Patterns|
-| 7 | (9/27 - 10/4) | Computational Gemetry II | E6 Geometric Operations | E5 Point Patterns II|
-| 8 | (10/4 - 10/11) | **Exam 1** |  **Exam 1** | E6 Geometric Operations |
-| 9 | (10/11 - 10/18) | Matrices I | E4 Matrices | |
-| 10 | (10/18 - 10/25) | Matrices II | E5 Applied Linear Regression  | |
-| 11 | (10/25 - 11/1) | Matrices III | E6 Eigen Values and Vectors | |
-| 12 | (11/1) - 11/8) | Systems of Linear Equations | E7 Linear Programming I|  | 
-| 13 | (11/8 - 11/15) | Systems of Linear Equations II | E8 Linear Programming II |  |
-| 14 | (11/15 - 11/22) | Graphs and Networks I | E12 Network Characteristics  | |
-| 15 | (11/22 - 11/29)| Graphs and Networks II | E13 Network Characteristics |  |
-| 16 | (11/29 - 12/6 | **Exam 2** | **Exam 2** | **Exam 2** |
+| 1 | (8/18 - 8/23) | Course Introduction | |
+| 2 | (8/23 - 8/30) | Functions, Notation, and Variables | E1 Algebra Review |
+| 3 | (8/30 - 9/6)  | Summation | E2 Descriptive Statistics |
+| 4 | (9/6 - 9/13)  | Probability | E3 Probability |
+| 5 | (9/13 - 9/20) | Distirbutions and Sampling | E4 Point Patterns I |
+| 6 | (9/20 - 9/27) | Computational Geometry I | E5 Point Patterns II  | 
+| 7 | (9/27 - 10/4) | Computational Gemetry II | E6 Geometric Operations |
+| 8 | (10/4 - 10/11) | **Exam 1** |  **Exam 1** | 
+| 9 | (10/11 - 10/18) | Matrices I | E4 Matrices |
+| 10 | (10/18 - 10/25) | Matrices II | E5 Applied Linear Regression  |
+| 11 | (10/25 - 11/1) | Matrices III | E6 Eigen Values and Vectors |
+| 12 | (11/1) - 11/8) | Systems of Linear Equations | E7 Linear Programming I|  
+| 13 | (11/8 - 11/15) | Systems of Linear Equations II | E8 Linear Programming II | 
+| 14 | (11/15 - 11/22) | Graphs and Networks I | E12 Network Characteristics  |
+| 15 | (11/22 - 11/29)| Graphs and Networks II | E13 Network Characteristics | 
+| 16 | (11/29 - 12/6 | **Exam 2** | **Exam 2** |
 
 --
 
