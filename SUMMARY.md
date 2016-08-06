@@ -11,6 +11,7 @@
    * Assignments
    * Communication
    * [Three Habits](three_habits.md)
+   * Summary
 * Functions, Notation, and Variables
    * Overview
    * Checklist
