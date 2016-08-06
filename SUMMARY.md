@@ -8,8 +8,8 @@
    * Learning Environment
    * Course Text
    * Roles and Responsibilities
-   * [Three Habits](three_habits.md)
    * Assignments
+   * [Three Habits](three_habits.md)
 * Functions, Notation, and Variables
    * Overview
    * Checklist
