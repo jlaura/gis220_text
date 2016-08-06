@@ -4,7 +4,7 @@
    * [Syllabus](syllabus.md)
 * [Orientation](chapter1.md)
    * [Three Habits](three_habits.md)
-   * Checklist
+   * [Checklist](checklist.md)
    * Three Habits
 * Functions, Notation, and Variables
    * Overview
