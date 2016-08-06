@@ -7,4 +7,5 @@
    * Checklist
 * Functions, Notation, and Variables
    * Overview
+   * Checklist
 
