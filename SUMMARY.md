@@ -6,6 +6,7 @@
    * [Overview](overview.md)
    * [Checklist](checklist.md)
    * [Three Habits](three_habits.md)
+   * Learning Environment
 * Functions, Notation, and Variables
    * Overview
    * Checklist
