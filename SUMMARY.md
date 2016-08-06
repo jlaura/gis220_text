@@ -22,4 +22,5 @@
    * Checklist
 * Computational Geometry II
    * Overview
+   * Checklist
 
