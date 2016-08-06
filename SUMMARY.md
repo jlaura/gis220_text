@@ -9,6 +9,7 @@
    * Course Text
    * Roles and Responsibilities
    * [Three Habits](three_habits.md)
+   * Assignments
 * Functions, Notation, and Variables
    * Overview
    * Checklist
