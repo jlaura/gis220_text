@@ -10,6 +10,7 @@
    * Roles and Responsibilities
    * Assignments
    * [Three Habits](three_habits.md)
+   * Communication
 * Functions, Notation, and Variables
    * Overview
    * Checklist
