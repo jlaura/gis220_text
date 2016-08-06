@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [Syllabus](syllabus.md)
 * [Orientation](chapter1.md)
-   * Overview
+   * [Overview](overview.md)
    * Checklist
 * Functions, Notation, and Variables
    * Overview
