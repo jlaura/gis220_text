@@ -5,7 +5,7 @@
 * [Orientation](chapter1.md)
    * [Overview](overview.md)
    * [Checklist](checklist.md)
-   * Course Text
+   * [Course Text](course_text.md)
    * Roles and Responsibilities
    * Assignments
    * Communication
