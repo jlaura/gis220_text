@@ -5,7 +5,7 @@
 * [Orientation](chapter1.md)
    * [Overview](overview.md)
    * [Checklist](checklist.md)
-   * Learning Environment
+   * [Learning Environment](learning_environment.md)
    * Course Text
    * Roles and Responsibilities
    * Assignments
