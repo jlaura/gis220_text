@@ -2,7 +2,6 @@
 
 1. Overview
 2. Checklist
-3. Learning Environment
 4. Course Text
 5. Roles and Responsibilities
 6. Assignments
