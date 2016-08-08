@@ -13,6 +13,10 @@
     *  [Overview](chapter1/overview.md)
     *  [Checklist](chapter1/checklist.md)
     *  [Functions](chapter1/functions.md)
-    *  [Variables]
-    *  [Notation]
+    *  [Variables](chapter1/variables.md)
+    *  [Function Evaluation](chapter1/functioneval.md)
+    *  [Monomials and Polynomials](chapter1/monopoly.md)
+    *  [Factoring](chapter1/factoring.md)
+    *  [Notation](chapter1/notation.md)
+    *  [Summary](chapter1/sum.md)
 *  [Syllabus](syllabus.md)
