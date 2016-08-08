@@ -11,7 +11,7 @@
    * [Communication](communication.md)
    * [Three Habits](three_habits.md)
    * [Summary](summary.md)
-* Functions, Notation, and Variables
+* [Functions, Notation, and Variables](functions,_notation,_and_variables.md)
    * Overview
    * Checklist
 * Definite Integrals (Summation)
