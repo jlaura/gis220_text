@@ -7,7 +7,7 @@
    * [Checklist](checklist.md)
    * [Course Text](course_text.md)
    * [Roles and Responsibilities](roles_and_responsibilities.md)
-   * Assignments
+   * [Assignments](assignments.md)
    * Communication
    * [Three Habits](three_habits.md)
    * Summary
