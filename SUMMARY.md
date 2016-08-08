@@ -10,7 +10,7 @@
    * [Assignments](assignments.md)
    * [Communication](communication.md)
    * [Three Habits](three_habits.md)
-   * Summary
+   * [Summary](summary.md)
 * Functions, Notation, and Variables
    * Overview
    * Checklist
