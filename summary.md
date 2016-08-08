@@ -13,5 +13,6 @@
 	*  [Overview](chapter1/overview.md)
 	*  [Checklist](chapter1/checklist.md)
 	*  [Functions](chapter1/functions.md)
-	*  
+	*  [Variables]
+    *  [Notation]
 *  [Syllabus](syllabus.md)
