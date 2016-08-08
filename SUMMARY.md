@@ -8,7 +8,7 @@
    * [Course Text](course_text.md)
    * [Roles and Responsibilities](roles_and_responsibilities.md)
    * [Assignments](assignments.md)
-   * Communication
+   * [Communication](communication.md)
    * [Three Habits](three_habits.md)
    * Summary
 * Functions, Notation, and Variables
