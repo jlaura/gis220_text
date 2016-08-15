@@ -1,5 +1,5 @@
 # Overview
-In this chapter we review functions, variables, and the notation to be used throughout this course.  
+In this chapter we review concepts form algebra I and II.
 
 ## Objectives
 This chapter is designed as a refresher chapter to ensure that we are all working from the same foundation.  At the conclusion of this chapter and the assocaiated assignment, you will be able to:
@@ -8,5 +8,5 @@ This chapter is designed as a refresher chapter to ensure that we are all workin
 * identify and differentiate between constants, variables, and coefficients;
 * define commonly encountered mathematical notation and short-hand;
 * describe a Cartesian coordinate system in mathematical terms;
-* demonstrate graphing of a function;
+* demonstrate evaluation of a function;
 * complete an algebra review assignment including factorization of polynomials.

@@ -5,10 +5,9 @@ For Week 2, please be sure to complete the following. Feel free to print this pa
 
 | Step | Activity | Access/Directions |
 |-----|-----|-----|
-| 1 | Read the assigned course text and view any supplemental videos | The text content is found herein and all videos are linked or embedded.|
-| 2 | Complete the modules in this chapter. | Links to modules appear in the Table of Contents.| 
-| 2 | Introduce yourself to the instructor and fellow classmates by posting in the BlackBoard intrpductions forum.  Be sure to read other students' introductions as well. | BlackBoard>[this course] > Discussions > Introductions |
-| 3 | Review the academic integrity guide. | This content is available via the [Office of the University Provost](https://provost.asu.edu/academic-integrity).|
-| 4 | Proceed to Chapter 1. | Links to chapters appear in the Table of Contents|
+| 1 | Complete the modules in this chapter. | Links to modules appear in the Table of Contents.| 
+| 2 | Complete Assignment One | BlackBoard> [this course] > Content > Assignment 1 |
+| 3 | Post one additional resource you found helpful to the week 2 discussion forum | BlackBoard> [this course] > Discussions > Week 2 |
+| 4 | Post any questions or concerns in the course discussion forum | BlackBoard> [this course] > Discussions > Week 2 |
 
 

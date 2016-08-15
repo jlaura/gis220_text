@@ -1,3 +1,4 @@
-# Functions, Notation, and Variables
+# Functions, Variables, and Polynomials
 
 Table of Contents
+

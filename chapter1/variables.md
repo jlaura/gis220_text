@@ -8,7 +8,7 @@ $$\frac{x}{4} + 2 = 3$$
 
 We know that this is an equations because of the equal sign.  The equation includes variables, constants and coefficents. We will describe each in turn.
 
-* **Variables:** Abstractly, a variable is any characteristic or quantity that can be counted.  This could be the number of jelly-beans in a jar, or the number of instances of some disease in a given metropolitan area.  Mathematically, we define a variable abstractly.  In the example above, this is $$x$$.  If the equation defined the salary one might expect to earn in a certain part of the country for a certain job, we could replace $$x$$ with $$salary$$ without any loss (or gain) in meaning.
+* **Variables:** Abstractly, a variable is any characteristic or quantity that can be counted.  This could be the number of jelly-beans in a jar, or the number of instances of some disease in a given metropolitan area.  In a statistics context, variables are the observable or known.  The example above about diseases is a prime example.  In a pure mathematics context variables are the unknown.  In the example equation above, this is $$x$$.  A variable is only meaningful once defined.  Before this point, a variable has no meaning, it is simply a letter or a symbol.  
 * **Constants:** Constants are just that, constant numbers.  In the above example, both 2 and 3 are constants.  The value of these does not changes as a function of something else.  They are fixed, known entities.
 *  **Coefficients:**  Coefficients are constant, multiplicative factors that interact with variables.  In the above example, the coefficient to $$x$$ is $$\frac{1}{4}$$.
 

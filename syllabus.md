@@ -55,8 +55,8 @@ There are **no extra credit assignments** to make up for poor performance on exa
 |Week | Date | Topics  | Assignment| 
 |---|--------|----------|---------|
 | 1 | (8/18 - 8/23) | Orientation | |
-| 2 | (8/23 - 8/30) | Functions, Notation, and Variables | E1 Algebra Review |
-| 3 | (8/30 - 9/6)  | Summation | E2 Descriptive Statistics |
+| 2 | (8/23 - 8/30) | Functions, Variables, and Polynomials | E1 Algebra Review |
+| 3 | (8/30 - 9/6)  | Summation and Notation | E2 Descriptive Statistics |
 | 4 | (9/6 - 9/13)  | Probability | E3 Probability |
 | 5 | (9/13 - 9/20) | Distirbutions and Sampling | E4 Point Patterns I |
 | 6 | (9/20 - 9/27) | Computational Geometry I | E5 Point Patterns II  | 

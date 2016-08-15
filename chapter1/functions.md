@@ -2,7 +2,19 @@
 
 Here we describe what a function is, what a domain for which a function is valid is, and what intervals are.
 
-## Functions vs. Relations
+At the most basic, a function is a colelction of unknown variables.  For example:
+
+$$x + y + 3z = 21$$
+
+or more generically:
+
+$$f(x, y, z)$$
+
+or extremely generically:
+
+$$f()$$
+
+## Functions vs. Relationships
 
 A function describes a relationship between inputs and outputs such that each input maps to exactly one output.  Image that the figure below was for the production of widgets.  We have a set of inputs: 'green', 'blue', 'red', and 'orange' and a set of output: 'circle', square', 'triangle' and 'rectangle'.  Inputting an input color or *variable* ($$x$$) results in each output shape or *value* ($$f(x)$$). We can then say that *shape is a function of color*.
 
@@ -14,10 +26,20 @@ Graphically, if were to draw a vertical line at an arbitrary $$x$$ point and the
 
 ![What is a fuction?](images/whatisafunction.png)   
 
-The y-values being plotted 
-
 > Note: Throughout this text, functions will largely be notated as $$f(x)$$.  This is simply by convention.  It is equally valid to utilize $$g(x)$$, $$t(x)$$, $$h(t)$$, etc.  
 
+### Types of Relations
+Above we reviewed the standard equation of a line ($$y = mx + b$$).  This equation describes a linear relationship.  One unit increase in $$y$$ has a corresponding unit increase in $$x$$.  The relationship between these is linear.  When we see a function or equation that contains only $$+$$ or $$-$$ operations, the relationship is linear.  For example:
+
+* $$x + y$$
+* $$2x + y$$
+* $$\frac{1}{4}y - x$$    
+
+Intuitively, a non-linear relationship indicates that variables will not change in a linear fashion.  For example, $$x^{2}$$.  Increases in $$x$$ do not follow a line, but are, in this case, exponential.  Other examples of non linear relations are:
+
+* $$\sqrt{z}$$
+* $$x * y$$
+* $$\log{a}$$
 
 #### Supplemental Video
 
@@ -26,7 +48,7 @@ The y-values being plotted
 ------
 
 ## Functions vs. Equations
-What differentiates an equation from a function?  Assume that we have the following equation:$$x + 2 = 5$$  Here we see an equal sign ($$=$$) denoting an equivilency.  An equation is defining a relationship.  When we notate a function $$f(b)$$, we do not have the equivelency constraint.  Not all functions are equations and not all equations are necessarily functions. 
+What differentiates an equation from a function?  Assume that we have the following equation:$$x + 2 = 5$$  Here we see an equal sign ($$=$$) denoting an equivilency.  An equation is defining a relationship ($$\gt, \lt, \leq, \geq, \neq$$).  When we notate a function $$f(b)$$, we do not have the equivelency constraint.  Not all functions are equations and not all equations are necessarily functions. 
 
 #### Supplemental Video
 [![What is a function](http://img.youtube.com/vi/l3iXON1xEC4/0.jpg)](https://youtu.be/l3iXON1xEC4)
@@ -40,7 +62,7 @@ Some commonly used domains include:
 
 * Real Numbers (denoted by $$\mathbb{R}$$)
 	*  Rational Numbers
-		*  Integers: -4, 0, 2, 10, ... (denoted by $$\mathbb{W}$$)
+		*  Integers: -4, 0, 2, 10, ... (denoted by $$\mathbb{Z}$$)
 		*  Fractions: 1/10, 1/3, 0.1, 0.04
 		*  Prime Number: 2,3,5,7,... (denoted by $$\mathbb{P}$$)
 	*  Irrational Numbers (denoted by $$\mathbb{I}$$)
