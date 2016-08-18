@@ -6,7 +6,6 @@ This chapter is designed as a refresher chapter to ensure that we are all workin
 
 * describe components of a function, including input, relationship, and output;
 * identify and differentiate between constants, variables, and coefficients;
-* define commonly encountered mathematical notation and short-hand;
 * describe a Cartesian coordinate system in mathematical terms;
 * demonstrate evaluation of a function;
 * complete an algebra review assignment including factorization of polynomials.
