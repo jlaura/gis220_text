@@ -57,6 +57,19 @@ The addition of a variable in the term adds flexability, but not enough to be re
 
 $$\displaystyle\sum\limits_{i=1}^{4} x^{2} = 1^{2} + 2^{2} + 3^{2} + 4^{2}$$
 
+## Nesting and inclusion with other notation
+It is possible to include sigma notation within other formula, functions, or equations.  For example:
+
+$$\overline{m} = \frac{1}{n}\displaystyle\sum\limits_{i=1}^{n}a_{i}$$
+
+The variable $$m$$ equal to the sum of the terms from 1 to $$n$$ times $$\frac{1}{n}$$, or the mean.
+
+We can also nest sigmas  
+
+$$\displaystyle\sum\limits_{i=1}^{2}\displaystyle\sum\limits_{j=2}^{4}ij = (i_{1}*2 + i_{2}*3 + i_{3}*4) + (i_{2} * 2 + i_{2} * 3 + i_{2} * 4)$$
+
+$$ = 1*2 + 1*3 + 1*4 + 2*2 + 2*3 + 2*4$$
+
 ## Summation Rules
 A number of well known summation properties (or rules) exist.  Before we dive into them, also note how it is possible to include a variable in the stop:
 
@@ -74,7 +87,8 @@ The $$n$$ variable is assigned to some number and then utilized as the stop.  No
 
 We will see more notation like this in the usage section.
 
-
+#### Supplemental Video
+[![Sigma Notation](http://img.youtube.com/vi/5jwXThH6fg4/0.jpg)](https://youtu.be/5jwXThH6fg4)
 
 
 

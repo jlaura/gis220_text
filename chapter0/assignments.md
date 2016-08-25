@@ -8,5 +8,5 @@ In conjunction with weekly readings, students are assigned an assignment worth 5
 Assignments will have an unlimited number of submissions via Blackboard and the highest point score will be the recorded grade.  Of the thirteen assignments, only the top 12 will be used to compute your final grade.
 
 #### Two Exams, accounting for 40% of your grade
-Two open book, online exams will appear via Blackboard.  The exam is identical to the assignments in format and style.  Most students will find the exams to be fairly challenging and successful completion of the exams will have deminstrated that you have sufficiently mastered the presented mathematical foundations.
+Two open book, online exams will appear via Blackboard.  The exam is identical to the assignments in format and style.  Most students will find the exams to be fairly challenging and successful completion of the exams will have demonstrated that you have sufficiently mastered the presented mathematical foundations.
 
