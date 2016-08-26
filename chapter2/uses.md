@@ -25,7 +25,7 @@ Here the goal is to just see the summation notation in action and have a general
 
 * Standard Deviation
 
-$$\displaystyle\sqrt\frac{\sum_{i=1}^{n}(x_{i} - \overline{x})^{2}}{(n - 1}$$
+$$\displaystyle\sqrt\frac{\sum_{i=1}^{n}(x_{i} - \overline{x})^{2}}{(n - 1)}$$
 
 Here $$x$$ is the value of some observation, $$\overline{x}$$ is the mean of the set of all $$x$$ and $$n$$ is the number of elements in $$x$$ (or more formally, the population size).  In a spatial analysis context, you will sometimes see the denominator of a statistics as $$n$$ instead of $$n-1$$ in instances where the population size is known.
 
@@ -75,7 +75,7 @@ where $$d()$$ is a function that computes the Euclidean distance between $$x_{i}
 
 Frequently, we utilize a GIS to compute the area of 2-dimensional vector features.  For example, if we want to know the area of all the residential lots in Tempe, we would need to first be able to compute the area of each individual lot.  Then it is possible to use the same strategy as above - define the single entity function and then nest said function inside Sigma notation.  Assuming every residential lot in Tempe is a simple polygon, we could forumulate the area function as:
 
-$$\displaystyle A = \sum_{k=1}^{n}\frac{(x_{k+1} + x_{k})(y_{k+1} - y_{k}}{2}$$, 
+$$\displaystyle A = \sum_{k=1}^{n}\frac{(x_{k+1} + x_{k})(y_{k+1} - y_{k})}{2}$$, 
 
 where $$A$$ is the area, $$k$$ is the k-th point in the set of counter-clockwise sorted points, and (x,y) are the vertex (point) coordinates.
 
