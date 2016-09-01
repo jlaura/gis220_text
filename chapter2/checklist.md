@@ -1,6 +1,6 @@
 # Checklist
 
-For Week 2, please be sure to complete the following. Feel free to print this page (or any other pages in this text) and check off tasks as you complete them.
+For Week 3, please be sure to complete the following. Feel free to print this page (or any other pages in this text) and check off tasks as you complete them.
 
 
 | Step | Activity | Access/Directions |
