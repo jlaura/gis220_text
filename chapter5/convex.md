@@ -59,8 +59,9 @@ To recap:
 
 * Keep searching for the counter-clockwise most point in the pattern until we return to the start point (leftmost).  Once we return to the start, we have created a polygon.
 
-	* Select the furthest point to the right point, relative to point $$p$$.  We will call this point $$q$$.
-	* Set point q as the new point p and repeat the search process.
+* Select the furthest point to the right point, relative to point $$p$$.  We will call this point $$q$$.
+
+* Set point q as the new point p and repeat the search process.
 
 ![](images/p6.png)
 

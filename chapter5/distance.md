@@ -53,4 +53,12 @@ where $$\phi_{1}, \lambda_{1}$$ and $$\phi_{2}, \lambda_{2}$$ are the latitude a
 
 * Map projected distance.  Once we are in projected space, we can utilize Euclidean distance metrics and are constrained by the characteristics of the projection.
 
+* Great Circle Distance - one pretty good approximation (pretty good is an entirely relative term that depends entirely upon the application) is great circle distance.  This is the distance along the exterior of a sphere.  This assumes that we are not using an ellipsoid, but instead the best fix, auxillary sphere.  To compute the great circle distance, we can use the Haversine formula:
 
+$$a = \sin^{2}(\dfrac{\Delta\phi}{2}) + \cos\phi_{1} \cdot \cos\phi_{2} \cdot \sin^{2}(\dfrac{\Delta\lambda}{2})$$
+
+$$c = 2 \cdot atan2(\sqrt{a}, \sqrt{1-a})$$
+
+$$d = R \cdot c$$, 
+
+where, as above $$\phi_{1}, \lambda_{1}$$ and $$\phi_{2}, \lambda_{2}$$ are the latitude and longitude of two points, and $$R$$ is the radius of the sphere, e.g. 6371km for Earch.s
