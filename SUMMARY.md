@@ -50,6 +50,7 @@
 	*  [Overview](chapter5/overview.md)
 	*  [Checklist](chapter5/checklist.md)
 	*  [Introduction](chapter5/intro.md)
+	*  [Points](chapter5/points.md)
 	*  [Distances](chapter5/distance.md)
 	*  [Line Simplification](chapter5/line.md)
 	*  [Convex Hulls](chapter5/convex.md)
