@@ -14,7 +14,6 @@ $$y = \rho W y + X\beta + \epsilon$$,
 
 where $\rho$ is a scalar spatial autoregressive coefficient (that in and of itself receives huge attention, but is (un)fortunately not the focus of this section), $$\mathbf{W}$$ is the spatial weights object, $$y$$ is the dependent variable (so $$\mathbf{Wy}$$ is the spatially lagged dependent variable), and $$\epsilon$$ is the error term.  Our interest is in $$\mathbf{W}y$$.
 
-
 #### Supplemental Video
 [![Spatial Lag](http://img.youtube.com/vi/zWXnOM3_lJI/0.jpg)](https://www.youtube.com/watch?v=zWXnOM3_lJI)
 
