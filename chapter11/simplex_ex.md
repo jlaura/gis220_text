@@ -21,7 +21,7 @@ Next step is making coefficient of the pivot element to 1. Then we make other el
 
 Basic solution of 1st iteration is:
 
-<center>$$x_{1} = 2, x_{4} = 1, x_{2} = x_{3} = 0, z = 2$$</center>
+<p style="text-align: center;">$$x_{1} = 2, x_{4} = 1, x_{2} = x_{3} = 0, z = 2$$</p>
 
 Is this solution optimal? Not yet, as we still have the negative coefficient in Row 0. Naturally, 𝑥2
 becomes the new entering variable. To select the pivot, calculate the ratio $$\dfrac{2}{1/2} = 4$$, $$\dfrac{1}{3/2} = \dfrac{2}{3}$$, so $$\dfrac{3}{2}$$ is the pivot element.  The result is:
@@ -30,6 +30,6 @@ becomes the new entering variable. To select the pivot, calculate the ratio $$\d
 
 Now we have no negative coefficient in Row 0. So the simplex algorithm terminates here. Optimized solution & objective value:
 
-<center>$$x_{1} = \dfrac{5}{3}$$, $$x_{2} = \dfrac{2}{3}$$, $$z = \dfrac{7}{3}$$</center>
+<p style="text-align: center;">$$x_{1} = \dfrac{5}{3}$$, $$x_{2} = \dfrac{2}{3}$$, $$z = \dfrac{7}{3}$$</p>
 
 We don’t need to worry about slack variables, as they are NBV, so value is equal to 0.

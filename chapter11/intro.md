@@ -38,7 +38,7 @@ $$Ax \leq$$ b
 $$x \geq b$$
 </p>
 
-Where $$𝐱$$ represents vector of decision variables, $$𝐜$$, $$𝐛$$ are vectors of known coefficient, and **A** is a matrix of known coefficient.
+Where $$x$$ represents vector of decision variables, $$c$$, $$b$$ are vectors of known coefficient, and **A** is a matrix of known coefficient.
 
 ## Solution By Graph
 
