@@ -36,7 +36,7 @@ Now we should change inequality to equality, by adding slack variables ($$x_{3}$
 
 This is beginning to look like a system of linear equations.  The objective function has become the first row and each constraints has become a subsequent row.  Notice that $$x_{3}$$$$ and $$ $$x_{4}$$ have been added.  Where did those variables come from?  They are the **slack variables** that are added to allow for the conversion from $$\leq$$ to = (inequality to equation).
 
-Note that there are variables that appear in only one equation, such as $$x_{3} and x_{4}. They are called basic variables (**BV**). Other variables that appear in multiple equations, $$x_{1}, x_{2}$$ are called nonbasic variables (**NBV**). A basic feasible solution is obtained from the system of equations by setting the NBVs to zero.
+Note that there are variables that appear in only one equation, such as $$x_{3}$$ and $$x_{4}$$. They are called basic variables (**BV**). Other variables that appear in multiple equations, $$x_{1}, x_{2}$$ are called nonbasic variables (**NBV**). A basic feasible solution is obtained from the system of equations by setting the NBVs to zero.
 
 Definitely, nobody want 0 as a solution and objective value. How can we increase $$z$$?
 
