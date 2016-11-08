@@ -28,11 +28,12 @@ Decision variable is:
 
 The objective is maximizing the value of things in the suitcase:
 
-<center>$$max \sum_{j=1}^{n}v_{j}w_{j}$$ (1)</center>
+<p style="text-align: center;">$$max \sum_{j=1}^{n}v_{j}w_{j}$$ (1)</p>
 
 *s.t.*
 
-<center>$$\sum_{j=1}^{n}w_{j}x_{j} \leq b$$ (2)<\center>
-<center>$$x_{j} = 0 or 1$$</center>
+<p style="text-align: center;"> $$\sum_{j=1}^{n}w_{j}x_{j} \leq b$$ (2)
+</p>
+<p style="text-align: center;">$$x_{j} = 0 or 1$$</p>
 
 The objective function (1) tries to maximize the value of objects to be carried in the suitcase. Constraint (2) restricts the total weight of selected object for the conference should be less than or equal to the given weight restriction. Constraint (3) is called binary restriction, and it makes this problem binary integer problem.
