@@ -27,12 +27,18 @@ variable
 
 To apply linear programing algorithm, problems needs to be expressed in canonical form. Canonical form is basically matrix/vector version of the above mentioned models. In general:
 
-<center>*Maximize* $cx$</center>
+<p style="text-align: center;">
+*Maximize* $cx$
+</p>
 s.t. (subject to)
-<center>$Ax \leq$ b</center>
-<center>$x \geq b$</center>
+<p style="text-align: center;">
+$$Ax \leq$$ b
+</p>
+<p style="text-align: center;">
+$$x \geq b$$
+</p>
 
-Where $𝐱$ represents vector of decision variables, $𝐜$, $𝐛$ are vectors of known coefficient, and **A** is a matrix of known coefficient.
+Where $$𝐱$$ represents vector of decision variables, $$𝐜$$, $$𝐛$$ are vectors of known coefficient, and **A** is a matrix of known coefficient.
 
 ## Solution By Graph
 
@@ -44,13 +50,15 @@ Suppose a toy company makes two types of wagons, X and Y. Let us further assume 
 
 Decision variables are the number of toys, X and Y. Objective function is:
 
-<center>*Maximize* $50X + 60Y$</center>
+<p style="text-align: center;">
+*Maximize* $$50X + 60Y$$
+</p>
 
 *s.t.*
 
-<center>$3X + Y \leq 1500$</center>
-<center$2X + 2Y \leq 1200$</center>
-<center>X, Y \geq 0</center>
+<p style="text-align: center;">$$3X + Y \leq 1500$$</p>
+<p style="text-align: center;">$$2X + 2Y \leq 1200$$</p>
+<p style="text-align: center;">$$X, Y \geq 0$$</p>
 
 We can draw graphs of all constraints to find out region of feasibility, the area that satisfies all given constraints. In following figure, gray shaded area is region of feasibility. Every single point in the feasible area are feasible, but only one of them is the optimal solution. To find the optimal solution, we use the fundamental theorem of linear programing.
 
