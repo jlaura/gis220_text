@@ -4,15 +4,15 @@ With the graphical approach, it is possible ti solve simple problems.  Unfortuna
 
 To apply simplex method, first we need to convert a given problem into standard form, not canonical form. It is simple. Below system of equations is written in standard form.
 
-<center>*Maximize* $$ z = c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}$$</center>
+<p style="text-align: center;">*Maximize* $$ z = c_{1}x_{1} + c_{2}x_{2} + \ldots + c_{n}x_{n}$$</p>
 
 *s.t.*
 
-<center>$$a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{1n} \leq b_{1}$$</center>
-<center>$$a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{1n}x_{n} \leq b_{2}$$</center>
-<center>$$\ldots$$</center>
-<center>$$a_{m1}x_{1} + a{m2}x_{2} + \ldots + a_{mn}x_{n} \leq b_{m}$$</center>
-<center>$$x_{1]} \geq 0, \ldots x_{n} \geq 0 $$</center>
+<p style="text-align: center;">$$a_{11}x_{1} + a_{12}x_{2} + \ldots + a_{1n}x_{1n} \leq b_{1}$$</p>
+<p style="text-align: center;">$$a_{21}x_{1} + a_{22}x_{2} + \ldots + a_{1n}x_{n} \leq b_{2}$$</p>
+<p style="text-align: center;">$$\ldots$$</p>
+<p style="text-align: center;">$$a_{m1}x_{1} + a{m2}x_{2} + \ldots + a_{mn}x_{n} \leq b_{m}$$</p>
+<p style="text-align: center;">$$x_{1]} \geq 0, \ldots x_{n} \geq 0 $$</p>
 
   - If the objective function is minimization of z, convert it to max –z (make it negative)
   - If a constraint is ( ) ≤ 𝑏𝑖, then convert it into an equality constraint by adding a nonnegative slack variable. The resulting constraint is ( ) + 𝑠𝑙𝑎𝑐𝑘 𝑣𝑎𝑟𝑖𝑎𝑏𝑙𝑒 = 𝑏𝑖. Put a slack variable for each inequality in constraints.  (The example will illustrate the use of slack variables.)
@@ -22,25 +22,25 @@ Here I use an example to walk through the simplex algorithm and define the rules
 
 Imagine a problem that has been formulated as:
 
-<center>*Maximize* $$z = x_{1} + x_{2}$$</center>
+<p style="text-align: center;">*Maximize* $$z = x_{1} + x_{2}$$</p>
 
 *s.t.*
 
-<center>$$2x_{1} + x_{2} \leq 4$$</center>
-<center>$$x_{1} + 2x_{2} \leq 3$$</center>
-<center>$$x_{1},x_{2} \geq 0$$</center>
+<p style="text-align: center;">$$2x_{1} + x_{2} \leq 4$$</p>
+<p style="text-align: center;">$$x_{1} + 2x_{2} \leq 3$$</p>
+<p style="text-align: center;">$$x_{1},x_{2} \geq 0$$</p>
 
-Now we should change inequality to equality, by adding slack variables ($$x_{3}, x_{4}). One for each constraint. For objective function, move decision variables to left hand side. All elements in right hand side should be constants.
+Now we should change inequality to equality, by adding slack variables ($$x_{3}$$, $$x_{4}$$). One for each constraint. For objective function, move decision variables to left hand side. All elements in right hand side should be constants.
 
 ![](images/s1.png)
 
-This is beginning to look like a system of linear equations.  The objective function has become the first row and each constraints has become a subsequent row.  Notice that $$x_{3}$$ and $$x_{4}$$ have been added.  Where did those variables come from?  They are the **slack variables** that are added to allow for the conversion from $$\leq$$ to $$=$$ (inequality to equation).
+This is beginning to look like a system of linear equations.  The objective function has become the first row and each constraints has become a subsequent row.  Notice that $$x_{3}$$$$ and $$ $$x_{4}$$ have been added.  Where did those variables come from?  They are the **slack variables** that are added to allow for the conversion from $$\leq$$ to = (inequality to equation).
 
 Note that there are variables that appear in only one equation, such as $$x_{3} and x_{4}. They are called basic variables (**BV**). Other variables that appear in multiple equations, $$x_{1}, x_{2}$$ are called nonbasic variables (**NBV**). A basic feasible solution is obtained from the system of equations by setting the NBVs to zero.
 
 Definitely, nobody want 0 as a solution and objective value. How can we increase $$z$$?
 
-We can increase $$z$$ by increasing $$x_{1} and $$x_{2}, because $$x_{1}$$ and $$x_{2} have negative coefficient (see Row 0). If all coefficients are nonnegative, we can conclude that current basic solution is optimum, as there is no way to increase $$z$$. From this, here is the first rule of the simplex method.
+We can increase $$z$$ by increasing $$x_{1} and $$ $$x_{2}$$, because $$x_{1}$$ and $$x_{2}$$ have negative coefficients (see Row 0). If all coefficients are nonnegative, we can conclude that current basic solution is optimum, as there is no way to increase $$z$$. From this, here is the first rule of the simplex method.
 
 > Rule 1: if all variables have a nonnegative coefficient in Row 0, the current basic solution is optimal. Otherwise, pick a variable with the most negative coefficient in Row 0.
 
