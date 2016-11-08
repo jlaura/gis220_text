@@ -58,9 +58,12 @@ We can describe B&B procedure in an enumeration tree. The tree is branching by n
 <center>$$x_{2} \geq 4$$</center>
 <center>$$x_{1}, x_{2} \geq 0$$</center>
 
-The strategy of B&B method is obvious: Simply treat each subdivision as we did original problem. Consider $$L_{2} first. If we solve this problem with given constraints, solution is $$x_{1} = 1.8$$, $$x_{2} = 4$$, $$z= 41$$. Since $$x_{1}$$ is not an integer, we need to divide it more, into the regions $$L_{3}$$ with $$x_{1} \geq 2$$ and $$L_{4} with $$x_{1} \leq 1$$. In $$L_{3}$$ however, it is infeasible, so this branch no longer needs to be considered.
+The strategy of B&B method is obvious: Simply treat each subdivision as we did original problem. Consider $$L_{2}$$ first. If we solve this problem with given constraints, solution is $$x_{1} = 1.8$$, $$x_{2} = 4$$, $$z= 41$$. Since $$x_{1}$$ is not an integer, we need to divide it more, into the regions $$L_{3}$$ with $$x_{1} \geq 2$$ and $$L_{4}$$ with $$x_{1} \leq 1$$.  
+In $$L_{3}$$ however, it is infeasible, so this branch no longer needs to be considered.
 
-Let’s check $$L_{4}$$. Note that $$L_{4}$$ has constraints from $$L_{4}$$, and also additionally $$x_{2} \geq 4$$ and $$x_{1} \leq 1$$. If we solve this problem, solution is $$x_{1} = 1$$, $$x_{2} = 4.444$$, $$z = 40.555$$. Since $$x_{2}$$ is not integer, we should branch this solution with $$x_{2} \leq 4$$ ($$L_{5}$$), and $$x_{2} \geq 5$$ ($$L_{6}$$). Now we have three branches to be considered, namely $$L_{2}, L_{5}, L_{6}$$. In practice, several heuristics are utilized to select a branch to be solved first for efficient solution process, but for here, we will just pick up $$L_{5}.
+Let’s check $$L_{4}$$. Note that $$L_{4}$$ has constraints from $$L_{4}$$, and also additionally $$x_{2} \geq 4$$ and $$x_{1} \leq 1$$. 
+
+If we solve this problem, solution is $$x_{1} = 1$$, $$x_{2} = 4.444$$, $$z = 40.555$$. Since $$x_{2}$$ is not integer, we should branch this solution with $$x_{2} \leq 4$$ ($$L_{5}$$), and $$x_{2} \geq 5$$ ($$L_{6}$$). Now we have three branches to be considered, namely $$ $$L_{2}$$, $$L_{5}$$, $$L_{6}$$. In practice, several heuristics are utilized to select a branch to be solved first for efficient solution process, but for here, we will just pick up $$$$L_{5}$$.
 
 In $$L_{5}$$, we can get the optimal solution such that $$x_{1} = 1$$, $$x_{2} = 4$$, and $$z = 37$$.  Now finally we have a solution that satisfies the original integer constraints. As it is not possible to get better solution from this branch, there is no point to make subdivision from this branch. From the solution of $$L_{5}, we have the lower bound for the original problem, so now we have bounds $$37 \leq z \leq 41$$. It gets closer, but we still have branches to examine.
 
