@@ -1,10 +1,10 @@
 # Overview
-This week culminates the matrix / systems of linear equations section of this course.  The week is designed to give you a broad overview of spatial optimization techniques.  At the conclusion of last week, you formulated a model, but we left the problem unsolved.  This week, we will utilize the Simplex method to solve a system and then solve an integer programming problem.  This is a very high level overview on problems designed to be solvable by hand.  This overview is only designed to help you decided if, later in your academic careers, you want to enroll in a more in depth spatial optimization course.
-
+This week concludes both the network analysis sections and this course. Congratulations on having done a wonderful job!  This week is designed to bring together the graph/network chapter from last week and a number of the mathematical techniques that we learned through the semester.  We focus on spatial interaction models, network constrained point processess, and an explorations of Snow's classic Cholera study.
 
 ## Objectives
 At the conclusion of this chapter and the associated assignment, you will be able to:
 
-* formulate an optimization problem in matrix form;
-* solve an optimization problem using the Simplex method;
-* define integer programming and solve an integer programming model using the branch and bound technique.
+* define, formulate, and compute a spatial interaction model;
+* leverage computational geometry methods to snap a point pattern to a network;
+* compute a network constrained Moran's I statistic;
+* describe Snow's cholera work and compute a network constrained clustering statistic on the data.
