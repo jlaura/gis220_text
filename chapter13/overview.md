@@ -7,4 +7,4 @@ At the conclusion of this chapter and the associated assignment, you will be abl
 * define, formulate, and compute a spatial interaction model;
 * leverage computational geometry methods to snap a point pattern to a network;
 * compute a network constrained Moran's I statistic;
-* describe Snow's cholera work and compute a network constrained clustering statistic on the data.
+* formulate the Huff Gravity model and describe multiple distance decay functions.

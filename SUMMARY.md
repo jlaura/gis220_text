@@ -122,6 +122,6 @@
   *  [Introduction](chapter13/intro.md)
   *  [Interaction Models](chapter13/gravity.md)
   *  [Point Processes](chapter13/points.md)
-  *  [Snow's Cholera Study](chapter13/cholera.md)
+  *  [Huff Model and Distance Decay Functions](chapter13/huff.md)
   *  [Summary](chapter13/sum.md)
 *  [Syllabus](syllabus.md)
