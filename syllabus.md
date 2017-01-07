@@ -66,11 +66,11 @@ There are **no extra credit assignments** to make up for poor performance on exa
 | 7 | (2/20 - 2/27) | Computational Gemetry II | E6 Geometric Operations |
 | 8 | (2/27 - 3/6) | **Exam 1** |  **Exam 1** |
 | - | (3/6 - 3/13) | Spring Break | None |
-| 9 | (3/13 - 3/20) | Matrices I | E4 Matrices |
-| 10 | (3/20 - 3/27) | Matrices II | E5 Applied Linear Regression  |
-| 11 | (3/27 - 4/3) | Matrices III | E6 Eigen Values and Vectors |
-| 12 | (4/3 - 4/10) | Systems of Linear Equations | E7 Linear Programming I|  
-| 13 | (4/10 - 4/17) | Systems of Linear Equations II | E8 Linear Programming II |
+| 9 | (3/13 - 3/20) | Matrices I | E7 Matrices |
+| 10 | (3/20 - 3/27) | Matrices II | E8 Applied Linear Regression  |
+| 11 | (3/27 - 4/3) | Matrices III | E9 Eigen Values and Vectors |
+| 12 | (4/3 - 4/10) | Systems of Linear Equations | E10 Linear Programming I|  
+| 13 | (4/10 - 4/17) | Systems of Linear Equations II | E11 Linear Programming II |
 | 14 | (4/17 - 4/24) | Graphs and Networks I | E12 Network Characteristics  |
 | 15 | (4/24 - 5/1)| Graphs and Networks II | E13 Network Characteristics |
 | 16 | (5/1 - 5/5) | **Exam 2** | **Exam 2** |
