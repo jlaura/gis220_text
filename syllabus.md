@@ -27,7 +27,7 @@ Contemporary research in analytical an quantitative geography has placed an incr
 
 **Course learning outcomes:**
 
-For geography students, refresh the basic mathematical principals of notation, algebraic manipulation, 
+For geography students, refresh the basic mathematical principals of notation, algebraic manipulation,
 
 --
 
@@ -37,14 +37,17 @@ Grading in the course will be based on the following point system:
 
 | **Component**                        | **Points**                           |
 |--------------------------------------|--------------------------------------|
-| 12 Exercises                         | 600                                  |
+| 12 Exercises                         | 480                                  |
+| 12 Discussion Posts                  | 120                                  |
 | Exam 1                               | 200                                  |
 | Exam 2                               | 200                                  |
 | Total                                | 1000                                 |
 
 **Exams** will be based on the readings, discussion forum posts, and exercises. All exams are cumulative.  Late exams will not be accepted.
 
-**Exercises** will be posted on Blackboard every Tuesday and are due the following Tuesday.  Exercises are available for unlimited attempts during that time.  Late assignments will not be accepted.  A total of 13 exercises are assigned.  The lowest exercise grade will be dropped.
+**Exercises** will be posted on Blackboard every Monday and are due the following Monday.  Exercises are available for unlimited attempts during that time.  Late assignments will not be accepted.  A total of 13 exercises are assigned.  The lowest exercise grade will be dropped.
+
+**Discussion Posts** will be due the same day as the associated assignment.  A discussion post is assigned each week in the checklist section of each chapter.  Students are required to post a new, unique discussion and reply to one of their classmates posts.  
 
 There are **no extra credit assignments** to make up for poor performance on exams, exercises, or missed in-class activities.
 
@@ -52,24 +55,25 @@ There are **no extra credit assignments** to make up for poor performance on exa
 
 **Weekly activities**
 
-|Week | Date | Topics  | Assignment| 
+|Week | Date | Topics  | Assignment|
 |---|--------|----------|---------|
-| 1 | (8/18 - 8/23) | Orientation | |
-| 2 | (8/23 - 8/30) | Functions, Variables, and Polynomials | E1 Algebra Review |
-| 3 | (8/30 - 9/6)  | Summation and Notation | E2 Descriptive Statistics |
-| 4 | (9/6 - 9/13)  | Probability | E3 Probability |
-| 5 | (9/13 - 9/20) | Distirbutions and Sampling | E4 Point Patterns I |
-| 6 | (9/20 - 9/27) | Computational Geometry I | E5 Point Patterns II  | 
-| 7 | (9/27 - 10/4) | Computational Gemetry II | E6 Geometric Operations |
-| 8 | (10/4 - 10/11) | **Exam 1** |  **Exam 1** | 
-| 9 | (10/11 - 10/18) | Matrices I | E4 Matrices |
-| 10 | (10/18 - 10/25) | Matrices II | E5 Applied Linear Regression  |
-| 11 | (10/25 - 11/1) | Matrices III | E6 Eigen Values and Vectors |
-| 12 | (11/1) - 11/8) | Systems of Linear Equations | E7 Linear Programming I|  
-| 13 | (11/8 - 11/15) | Systems of Linear Equations II | E8 Linear Programming II | 
-| 14 | (11/15 - 11/22) | Graphs and Networks I | E12 Network Characteristics  |
-| 15 | (11/22 - 11/29)| Graphs and Networks II | E13 Network Characteristics | 
-| 16 | (11/29 - 12/6 | **Exam 2** | **Exam 2** |
+| 1 | (1/9 - 1/16) | Orientation | |
+| 2 | (1/16 - 1/23) | Functions, Variables, and Polynomials | E1 Algebra Review |
+| 3 | (1/23 - 1/30)  | Summation and Notation | E2 Descriptive Statistics |
+| 4 | (1/30 - 2/6)  | Probability | E3 Probability |
+| 5 | (2/6 - 2/13) | Distirbutions and Sampling | E4 Point Patterns I |
+| 6 | (2/13 - 2/20) | Computational Geometry I | E5 Point Patterns II  |
+| 7 | (2/20 - 2/27) | Computational Gemetry II | E6 Geometric Operations |
+| 8 | (2/27 - 3/6) | **Exam 1** |  **Exam 1** |
+| - | (3/6 - 3/13) | Spring Break | None |
+| 9 | (3/13 - 3/20) | Matrices I | E4 Matrices |
+| 10 | (3/20 - 3/27) | Matrices II | E5 Applied Linear Regression  |
+| 11 | (3/27 - 4/3) | Matrices III | E6 Eigen Values and Vectors |
+| 12 | (4/3 - 4/10) | Systems of Linear Equations | E7 Linear Programming I|  
+| 13 | (4/10 - 4/17) | Systems of Linear Equations II | E8 Linear Programming II |
+| 14 | (4/17 - 4/24) | Graphs and Networks I | E12 Network Characteristics  |
+| 15 | (4/24 - 5/1)| Graphs and Networks II | E13 Network Characteristics |
+| 16 | (5/1 - 5/5) | **Exam 2** | **Exam 2** |
 
 --
 
@@ -96,4 +100,3 @@ at the beginning of the semester either during office hours or by
 appointment. Note: Prior to receiving disability accommodations,
 verification of eligibility from the Disability Resource Center (DRC) is
 required. Disability information is confidential.
-
