@@ -51,52 +51,69 @@ Grading in the course will be based on the following point system:
 
 There are **no extra credit assignments** to make up for poor performance on exams, exercises, or missed in-class activities.
 
+At the conclusion of the semester points will be converted to **Final Letter Grade** using the following:
+
+| **Letter Grade** | **Points** |
+|------------------|------------|
+| A+               | 970 - 1000 |
+| A                | 930 - 969  |
+| A-               | 900 - 929  |
+| B+               | 870 - 899  |
+| B                | 830 - 869  |
+| B-               | 800 - 829  |
+| C+               | 770 - 799  |
+| C                | 730 - 769  |
+| C-               | 700 - 729  |
+| D                | 650 - 699  |
+| E                | 0 - 649    |
+
+
+--
+
+**Required Texts**
+
+For this course, we utilize a number of web resources, including a freely available text book: https://jlaura.gitbooks.io/gis220/content/
+
 --
 
 **Weekly activities**
 
 |Week | Date | Topics  | Assignment|
 |---|--------|----------|---------|
-| 1 | (1/9 - 1/16) | Orientation | |
-| 2 | (1/16 - 1/23) | Functions, Variables, and Polynomials | E1 Algebra Review |
-| 3 | (1/23 - 1/30)  | Summation and Notation | E2 Descriptive Statistics |
-| 4 | (1/30 - 2/6)  | Probability | E3 Probability |
-| 5 | (2/6 - 2/13) | Distirbutions and Sampling | E4 Point Patterns I |
-| 6 | (2/13 - 2/20) | Computational Geometry I | E5 Point Patterns II  |
-| 7 | (2/20 - 2/27) | Computational Gemetry II | E6 Geometric Operations |
-| 8 | (2/27 - 3/6) | **Exam 1** |  **Exam 1** |
-| - | (3/6 - 3/13) | Spring Break | None |
-| 9 | (3/13 - 3/20) | Matrices I | E7 Matrices |
-| 10 | (3/20 - 3/27) | Matrices II | E8 Applied Linear Regression  |
-| 11 | (3/27 - 4/3) | Matrices III | E9 Eigen Values and Vectors |
-| 12 | (4/3 - 4/10) | Systems of Linear Equations | E10 Linear Programming I|  
-| 13 | (4/10 - 4/17) | Systems of Linear Equations II | E11 Linear Programming II |
-| 14 | (4/17 - 4/24) | Graphs and Networks I | E12 Network Characteristics  |
-| 15 | (4/24 - 5/1)| Graphs and Networks II | E13 Network Characteristics |
-| 16 | (5/1 - 5/5) | **Exam 2** | **Exam 2** |
+| 1 | (8/17 - 8/21) | Orientation | |
+| 2 | (8/21 - 8/28) | Functions, Variables, and Polynomials | E1 Algebra Review |
+| 3 | (8/28 - 9/4)  | Summation and Notation | E2 Descriptive Statistics |
+| 4 | (9/4 - 9/11)  | Probability | E3 Probability |
+| 5 | (9/11 - 9/18) | Distributions and Sampling | E4 Point Patterns I |
+| 6 | (9/18 - 9/25) | Computational Geometry I | E5 Point Patterns II  |
+| 7 | (9/25 - 10/2) | Computational Geometry II | E6 Geometric Operations |
+| 8 | (10/2 - 10/9) | **Exam 1** |  **Exam 1** |
+| 9 | (10/9 - 10/16) | Matrices I | E7 Matrices |
+| 10 | (10/16 - 10/23) | Matrices II | E8 Applied Linear Regression  |
+| 11 | (10/23 - 10/30) | Matrices III | E9 Eigen Values and Vectors |
+| 12 | (10/30 - 11/6) | Systems of Linear Equations | E10 Linear Programming I|  
+| 13 | (11/6 - 11/13) | Systems of Linear Equations II | E11 Linear Programming II |
+| 14 | (11/13 - 11/20) | Graphs and Networks I | E12 Network Characteristics  |
+| -  | (11/20 - 11/27) | Thanksgiving | - |
+| 15 | (11/27 - 12/4)| Graphs and Networks II | E13 Network Characteristics |
+| 16 | (12/4 - 12/8) | **Exam 2** | **Exam 2** |
 
 --
 
+**Technology Support**
+For this iCourse you will require access a computer capable of running any modern web browser and an active internet connect.  The course text is available as standard HTML webpages that have been tested using the Chrome, Firefox, and Safari web browsers.  If you encounter issues with the online text, please contact me directly or utilize the online BlackBoard forums.
+
+For additional technical support: https://asuonline.asu.edu/student-resources/technical-support
+
 **Academic integrity**
 
-The ASU student academic integrity policy lists violations in detail.
-These violations fall into five broad areas that include but are not
-limited to: cheating on an academic evaluation or assignment,
-plagiarizing, academic deceit, such as fabricating data or information,
-aiding academic integrity policy violations and inappropriately
-collaborating, or falsifying academic records. For more information
-about the ASU student academic integrity policy, please use the
-following web link
-
-
-[http://provost.asu.edu/academicintegrity](http://provost.asu.edu/academicintegrity)
+Academic honesty is expected of all students in all examinations, papers, and laboratory work, academic transactions and records.  The possible sanctions include, but are not limited to, appropriate grade penalties, course failure (indicated on the transcript as a grade of E), course failure due to academic dishonesty (indicated on the transcript as a grade of XE), loss of registration privileges, disqualification and dismissal.  For more information, see https://provost.asu.edu/academic-integrity
 
 
 **Disability accommodations**
 
-Qualified students with disabilities who will require disability
-accommodations in this class are encouraged to make their requests to me
-at the beginning of the semester either during office hours or by
-appointment. Note: Prior to receiving disability accommodations,
-verification of eligibility from the Disability Resource Center (DRC) is
-required. Disability information is confidential.
+Students who feel they will need disability accommodations in this class but have not registered with the Disability Resource Center (DRC) should contact DRC immediately.  The DRC Tempe office is located on the first floor of the Matthews Center Building.  DRC staff can also be reached at: (480) 965-1234 (V) or (480) 965-9000 (TTY).  For additional information, visit:  www.asu.edu/studentaffairs/ed/drc.
+
+**Policy Against Threatening Behavior**
+
+All incidents and allegations of violent or threatening conduct by an ASU student (whether on-or off campus) must be reported to the ASU Police Department (ASU PD) and the Office of the Dean of Students.  If either office determines that the behavior poses or has posed a serious threat to personal safety or to the welfare of the campus, the student will not be permitted to return to campus or reside in any ASU residence hall until an appropriate  threat assessment has been completed and, if necessary, conditions for return are imposed. ASU PD, the Office of the Dean of Students, and other appropriate offices will coordinate the assessment in light of the relevant circumstances.
